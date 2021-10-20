@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+
+    <string-array name="rate" >
+        <item> Fixed rate: 3.74% </item>
+        <item> Fixed rate: 3.04% </item>
+        <item> Fixed rate: 1.55% </item>
+    </string-array>
+
+    <string-array name="year">
+        <item> 5 years </item>
+        <item> 10 years </item>
+        <item> 15 years </item>
+        <item> 20 years </item>
+    </string-array>
+
+    <string-array name="frequency">
+        <item> Monthly </item>
+    </string-array>
+
+</resources>
